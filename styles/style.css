@@ -1,0 +1,28 @@
+body
+{
+    background-color: #f6e8ff;
+}
+p
+{
+    background-color: #ffd9e7; color: black;
+    font-family: arial; font-size: 22pt;
+}
+a
+{
+    background-color: rgb(194, 194, 255);
+    color: red;
+}
+a:hover
+{
+    background-color: rgb(255, 182, 182);
+    color: blue;
+}
+.row 
+{
+    display: flex;
+}
+  
+.column 
+{
+    flex: 50%;
+}
